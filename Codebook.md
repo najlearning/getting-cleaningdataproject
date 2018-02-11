@@ -40,47 +40,47 @@ The Process involved  extracting the data set with the average of each variable 
 ## Variables
 * timeBodyAccelerometer-mean()-X
 * timeBodyAccelerometer-mean()-Y 
-timeBodyAccelerometer-mean()-Z
-timeBodyAccelerometer-std()-X 
-timeBodyAccelerometer-std()-Y
-timeBodyAccelerometer-std()-Z 
-timeGravityAccelerometer-mean()-X
-timeGravityAccelerometer-mean()-Y 
-timeGravityAccelerometer-mean()-Z
-timeGravityAccelerometer-std()-X 
-timeGravityAccelerometer-std()-Y
-timeGravityAccelerometer-std()-Z 
-timeBodyAccelerometerJerk-mean()-X
-timeBodyAccelerometerJerk-mean()-Y 
-timeBodyAccelerometerJerk-mean()-Z
-timeBodyAccelerometerJerk-std()-X 
-timeBodyAccelerometerJerk-std()-Y
-timeBodyAccelerometerJerk-std()-Z 
-timeBodyGyroscope-mean()-X
-timeBodyGyroscope-mean()-Y 
-timeBodyGyroscope-mean()-Z 
-timeBodyGyroscope-std()-X
-timeBodyGyroscope-std()-Y 
-timeBodyGyroscope-std()-Z
-timeBodyGyroscopeJerk-mean()-X 
-timeBodyGyroscopeJerk-mean()-Y
-timeBodyGyroscopeJerk-mean()-Z 
-timeBodyGyroscopeJerk-std()-X
-timeBodyGyroscopeJerk-std()-Y 
-timeBodyGyroscopeJerk-std()-Z
-timeBodyAccelerometerMagnitude-mean()
-timeBodyAccelerometerMagnitude-std()
-timeGravityAccelerometerMagnitude-mean() 
-timeGravityAccelerometerMagnitude-std()
-timeBodyAccelerometerJerkMagnitude-mean()
-timeBodyAccelerometerJerkMagnitude-std()
-timeBodyGyroscopeMagnitude-mean()
-timeBodyGyroscopeMagnitude-std() 
-timeBodyGyroscopeJerkMagnitude-mean()
-timeBodyGyroscopeJerkMagnitude-std() 
-frequencyBodyAccelerometer-mean()-X
-frequencyBodyAccelerometerJerkMagnitude-mean()
-frequencyBodyGyroscopeJerkMagnitude-std()
+* timeBodyAccelerometer-mean()-Z
+* timeBodyAccelerometer-std()-X 
+* timeBodyAccelerometer-std()-Y
+* timeBodyAccelerometer-std()-Z 
+* timeGravityAccelerometer-mean()-X
+* timeGravityAccelerometer-mean()-Y 
+* timeGravityAccelerometer-mean()-Z
+* timeGravityAccelerometer-std()-X 
+* timeGravityAccelerometer-std()-Y
+* timeGravityAccelerometer-std()-Z 
+* timeBodyAccelerometerJerk-mean()-X
+* timeBodyAccelerometerJerk-mean()-Y 
+* timeBodyAccelerometerJerk-mean()-Z
+* timeBodyAccelerometerJerk-std()-X 
+* timeBodyAccelerometerJerk-std()-Y
+* timeBodyAccelerometerJerk-std()-Z 
+* timeBodyGyroscope-mean()-X
+* timeBodyGyroscope-mean()-Y 
+* timeBodyGyroscope-mean()-Z 
+* timeBodyGyroscope-std()-X
+* timeBodyGyroscope-std()-Y 
+* timeBodyGyroscope-std()-Z
+* timeBodyGyroscopeJerk-mean()-X 
+* timeBodyGyroscopeJerk-mean()-Y
+* timeBodyGyroscopeJerk-mean()-Z 
+* timeBodyGyroscopeJerk-std()-X
+* timeBodyGyroscopeJerk-std()-Y 
+* timeBodyGyroscopeJerk-std()-Z
+* timeBodyAccelerometerMagnitude-mean()
+* timeBodyAccelerometerMagnitude-std()
+* timeGravityAccelerometerMagnitude-mean() 
+* timeGravityAccelerometerMagnitude-std()
+* timeBodyAccelerometerJerkMagnitude-mean()
+* timeBodyAccelerometerJerkMagnitude-std()
+* timeBodyGyroscopeMagnitude-mean()
+* timeBodyGyroscopeMagnitude-std() 
+* timeBodyGyroscopeJerkMagnitude-mean()
+* timeBodyGyroscopeJerkMagnitude-std() 
+* frequencyBodyAccelerometer-mean()-X
+* frequencyBodyAccelerometerJerkMagnitude-mean()
+* frequencyBodyGyroscopeJerkMagnitude-std()
 
 
 
