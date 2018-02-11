@@ -38,8 +38,8 @@ The Process involved  extracting the data set with the average of each variable 
 
 
 ## Variables
-timeBodyAccelerometer-mean()-X
-timeBodyAccelerometer-mean()-Y 
+* timeBodyAccelerometer-mean()-X
+* timeBodyAccelerometer-mean()-Y 
 timeBodyAccelerometer-mean()-Z
 timeBodyAccelerometer-std()-X 
 timeBodyAccelerometer-std()-Y
