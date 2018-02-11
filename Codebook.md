@@ -20,3 +20,18 @@ The data source can be explicitly described as follows:
 7. 'subject_train.txt' and 'subject_test.txt': Each row identifies the subject who performed the activity for each window sample. 
 
 
+## The Process of Producing the Tidy Data Set
+1. Merging the training and testing sets to produce one full data set.
+This process utilized the X_train.txt and X_test.txt to create features y_train.txt and y_test.txt. Same procedure applies to the activity data subject_train.txt and subject_test.txt. The output is a merged file.
+
+2. Extracts only the measurements on the mean and standard deviation for each measurement.
+The process utlized the features.txt to get only columns with mean() or std() and assigned again to all Data.
+
+3.Uses descriptive activity names to name the activities in the data set.
+activity_Labels.txt is used update values with correct activity names on all Data.
+
+4. Appropriately labels the data set with descriptive variable names.
+The process involved the use gsub function for pattern replacement to clean up the data labels.
+
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+The Process involved  extracting the data set with the average of each variable for each activity and subject. This now produce the 2nd tidy data set.
