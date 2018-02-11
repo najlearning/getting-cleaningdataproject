@@ -38,6 +38,10 @@ The Process involved  extracting the data set with the average of each variable 
 
 
 ## Variables
+The following are the variables used in the data set from UCI HAR Data.
+
+* subject
+* activity
 * timeBodyAccelerometer-mean()-X
 * timeBodyAccelerometer-mean()-Y 
 * timeBodyAccelerometer-mean()-Z
