@@ -1,6 +1,6 @@
 # getting-cleaningdataproject
 
-This is a Course Project in "Getting and Cleaning Data" Module 3
+This is a Course Project in "Getting and Cleaning Data" Module 3 of the Data Science Specialization.
 
 This repository contains the run_analysis.R script which does the following:
 1. Merges the training and the test sets to create one data set.
